@@ -1,6 +1,7 @@
 # Homework1
 
-This is the first homework assignment. The goal is to provide more efficient code and make the site accesible. 
+This is the first homework assignment. 
+The goal is to provide more efficient code make the site accesible. 
 I cleaned up the header, footer, and body of site. 
 Added alt text for accessibility. 
 Cleaned up code as needed to eliminate repetition. 
